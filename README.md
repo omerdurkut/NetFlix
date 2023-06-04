@@ -13,3 +13,10 @@ A Basic Investigation with using my beginner Data Analyst Skills
 
 6. Creating a scatter plot
 
+7. Digging deeper
+
+8. Marking non-feature films
+
+9. Plotting with color!
+
+10.Last Step:The Decision
